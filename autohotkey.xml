@@ -7,7 +7,7 @@
       <Keywords name="Operators">! # $ % &amp; ( ) * + , - . / : &lt; = &gt; ? [ ] ^ { | } ~</Keywords>
       <!--operator/statement/expression-->
       <Keywords name="Keywords1">and catch else finally if not or try</Keywords>
-      <!--function[]-->
+      <!--function-->
       <Keywords name="Keywords2">blockinput break catch click clipwait comobjconnect continue controladditem controlchooseindex controlchoosestring controlclick controldeleteitem controlfocus controlgetpos controlhide controlhidedropdown controlmove controlsend controlsendtext controlsetchecked controlsetenabled controlsetexstyle controlsetstyle controlsettext controlshow controlshowdropdown coordmode critical detecthiddentext detecthiddenwindows dircopy dircreate dirdelete dirmove download driveeject drivelock driveretract drivesetlabel driveunlock edit editpaste else envset exit exitapp fileappend filecopy filecreateshortcut filedelete fileencoding filegetshortcut fileinstall filemove filerecycle filerecycleempty filesetattrib filesettime finally for goto groupadd groupclose groupdeactivate hotif hotkey hotstring if imagesearch inidelete iniwrite installkeybdhook installmousehook keyhistory keywait listhotkeys listlines listvars loop menuselect mouseclick mouseclickdrag mousegetpos mousemove msgbox numput onclipboardchange onerror onexit onmessage outputdebug pause persistent pixelsearch postmessage processclose processsetpriority regcreatekey regdelete regdeletekey regwrite reload return run runas send sendevent sendinput sendlevel sendmode sendplay sendtext setcapslockstate setcontroldelay setdefaultmousespeed setkeydelay setmousedelay setnumlockstate setregview setscrolllockstate setstorecapslockmode settimer settitlematchmode setwindelay setworkingdir shutdown sleep soundbeep soundplay soundsetmute soundsetvolume splitpath statusbarwait strput suspend switch thread throw tooltip traytip try until while winactivate winactivatebottom winclose wingetclientpos wingetpos winhide winkill winmaximize winminimize winminimizeall winminimizeallundo winmove winmovebottom winmovetop winredraw winrestore winsetalwaysontop winsetenabled winsetexstyle winsetregion winsetstyle winsettitle winsettranscolor winsettransparent winshow winwait winwaitactive winwaitclose winwaitnotactive</Keywords>
       <!--function()-->
       <Keywords name="Keywords3">abs acos array asin atan buffer callbackcreate callbackfree caretgetpos ceil chr clipboardall comcall comobjactive comobjarray comobject comobjflags comobjfromptr comobjget comobjquery comobjtype comobjvalue comvalue controlfinditem controlgetchecked controlgetchoice controlgetclassnn controlgetenabled controlgetexstyle controlgetfocus controlgethwnd controlgetindex controlgetitems controlgetstyle controlgettext controlgetvisible cos dateadd datediff direxist dirselect displays dllcall drivegetcapacity drivegetfilesystem drivegetlabel drivegetlist drivegetserial drivegetspacefree drivegetstatus drivegetstatuscd drivegettype editgetcurrentcol editgetcurrentline editgetline editgetlinecount editgetselectedtext envget exp fileexist filegetattrib filegetsize filegettime filegetversion fileopen fileread fileselect float floor format formattime getkeyname getkeysc getkeystate getkeyvk getmethod goto groupactivate gui guictrlfromhwnd guifromhwnd hasbase hasmethod hasprop hotifwin hotstring il_add il_create il_destroy iniread inputbox inputhook instr integer isalnum isalpha isdigit isfloat isinteger islabel islower isnumber isobject isset issetref isspace istime isupper isxdigit listviewgetcontent ln loadpicture log ltrim map max menu menubar menufromhandle min mod monitorget monitorgetcount monitorgetname monitorgetprimary monitorgetworkarea msgbox number numget objaddref objbindmethod objgetbase objgetcapacity objhasownprop objownpropcount objownprops objrelease objsetbase objsetcapacity ord pixelgetcolor processexist processgetname processgetparent processgetpath processwait processwaitclose random regexmatch regexreplace regread round rtrim runwait sendmessage sin sort soundgetinterface soundgetmute soundgetname soundgetvolume sqrt statusbargettext strcompare strget string strlen strlower strptr strreplace strsplit strupper substr sysget sysgetipaddresses tan these throw trayseticon trim type varsetstrcapacity vercompare winactive winexist wingetclass wingetcontrols wingetcontrolshwnd wingetcount wingetexstyle wingetid wingetidlast wingetlist wingetminmax wingetpid wingetprocessname wingetprocesspath wingetstyle wingettext wingettitle wingettranscolor wingettransparent</Keywords>
@@ -24,17 +24,17 @@
     </KeywordLists>
     <Styles>
       <WordsStyle name="LINE COMMENTS" fgColor="008000"/>
-      <WordsStyle name="COMMENTS" fgColor="008000" bgColor="f0f0f0"/>
+      <WordsStyle name="COMMENTS" fgColor="008000" bgColor="eeeeee"/>
       <WordsStyle name="NUMBERS" fgColor="ff0000"/>
       <WordsStyle name="DELIMITERS1" fgColor="ee0000"/>
-      <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="e9d1fc"/>
-      <WordsStyle name="KEYWORDS1" fgColor="ff7800"/>
+      <WordsStyle name="DELIMITERS2" fgColor="ee0000" bgColor="eeeeee"/>
+      <WordsStyle name="KEYWORDS1" fgColor="6f008a"/>
       <WordsStyle name="KEYWORDS2" fgColor="0060ff"/>
       <WordsStyle name="KEYWORDS3" fgColor="ff00ff"/>
       <WordsStyle name="KEYWORDS4" fgColor="0060ff"/>
-      <WordsStyle name="KEYWORDS5" fgColor="8c868f"/>
-      <WordsStyle name="KEYWORDS6" fgColor="b43c7a"/>
-      <WordsStyle name="KEYWORDS7" fgColor="6f008a"/>
+      <WordsStyle name="KEYWORDS5" fgColor="708090"/>
+      <WordsStyle name="KEYWORDS6" fgColor="cc7700"/>
+      <WordsStyle name="KEYWORDS7" fgColor="290e90" fontStyle="1"/>
       <WordsStyle name="KEYWORDS8" fgColor="097f9a"/>
     </Styles>
   </UserLang>
