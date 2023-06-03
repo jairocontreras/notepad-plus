@@ -3,8 +3,8 @@
     <Settings></Settings>
     <KeywordLists>
       <Keywords name="Comments">00; 01 02 03/* 04*/</Keywords>
-      <Keywords name="Delimiters">00&quot; 01` 02&quot; 03&apos; 04` 05&apos;</Keywords>
       <Keywords name="Operators">! # $ % &amp; ( ) * + , - . / : &lt; = &gt; ? [ ] ^ { | } ~</Keywords>
+      <Keywords name="Delimiters">00&quot; 01` 02&quot; 03&apos; 04` 05&apos;</Keywords>
       <!--operator/statement/expression-->
       <Keywords name="Keywords1">and catch else finally if not or try</Keywords>
       <!--function-->

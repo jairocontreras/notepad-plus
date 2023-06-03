@@ -17,3 +17,14 @@ NSIS
 
 -duplicate-
 label + variable: pop push
+
+SHELL
+
+-added-
+function: back icon import pos separator theme tip title view visibility
+function(): item menu
+property: index quote
+value: after before both bottom disable hidden inherit label maximized middle minimized normal remove show static top visible
+
+-removed-
+section: item
