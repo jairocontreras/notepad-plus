@@ -1,33 +1,22 @@
 AUTOHOTKEY
 
--duplicate-
-function + directive: hotif hotstring
-function + function(): goto hotstring msgbox throw
-function + keyboard: pause sleep
-function + expression/statement: catch else finally if try (excluded: loop until while)
-
 -added-
+function[]: as case class default extends files global in is local parse read reg static
 function(): isalnum isalpha isdigit isfloat isinteger islower isnumber isspace istime isupper isxdigit
 variable: super this
 
--excluded-
-keyboard: sc vk
-
 NSIS
 
--duplicate-
-label + variable: pop push
+-added-
+label: admin components custom directory highest instfiles license uninstconfirm user
 
 SHELL
 
 -added-
-function: back icon item menu separator theme tip title view visibility
-property: index quote
-value: after before both bottom disable hidden inherit label maximized middle minimized normal remove show static top visible
+namespace[]: add_to_favorites burn_disc_image
+property: in priority
+section: import
 
 -removed-
-function+section: image
-section: item tip
-
--excluded-
-function: pos
+property: auto color command icon menu process separator
+section: item modify separator

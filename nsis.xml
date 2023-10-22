@@ -9,9 +9,7 @@
       <!--variable-->
       <Keywords name="Keywords2">$0 $1 $2 $3 $4 $5 $6 $7 $8 $9 $\n $\r $\t $admintools $appdata $cdburn_area $cmdline $commondesktop $commonfiles $commonfiles32 $commonfiles64 $commonlocalappdata $commonprogramdata $commonsmprograms $commonstartmenu $commontemplates $cookies $desktop $documents $exedir $exefile $exepath $favorites $fonts $history $hwndparent $instdir $internet_cache $language $localappdata $music $nethood $outdir $pictures $pluginsdir $printhood $profile $programfiles $programfiles32 $programfiles64 $quicklaunch $r0 $r1 $r2 $r3 $r4 $r5 $r6 $r7 $r8 $r9 $recent $resources $resources_localized $sendto $smprograms $smstartup $startmenu $sysdir $temp $templates $userappdata $userdesktop $userlocalappdata $usersmprograms $userstartmenu $usertemplates $videos $windir</Keywords>
       <!--label-->
-      <Keywords name="Keywords3">all archive auto both bottom bzip2 checkbox colored cur current end false file_attribute_archive file_attribute_hidden file_attribute_normal file_attribute_offline file_attribute_readonly file_attribute_system file_attribute_temporary force hidden hide hkcc hkcr hkcu hkdd hkey_classes_root hkey_current_config hkey_current_user hkey_dyn_data hkey_local_machine hkey_performance_data hkey_users hklm hkpd hku idabort idcancel idignore idno idok idretry idyes ifdiff ifnewer lastused leave left listonly lzma mb_abortretryignore mb_defbutton1 mb_defbutton2 mb_defbutton3 mb_defbutton4 mb_iconexclamation mb_iconinformation mb_iconquestion mb_iconstop mb_ok mb_okcancel mb_retrycancel mb_right mb_setforeground mb_topmost mb_usericon mb_yesno mb_yesnocancel nevershow none normal off offline on pop push radiobuttons readonly right set shctx show silent silentlog smooth sw_hide sw_showmaximized sw_showminimized sw_shownormal system temporary textonly top true try zlib</Keywords>
-      <!--added-->
-      <Keywords name="Keywords4">admin components custom directory highest instfiles license uninstconfirm user</Keywords>
+      <Keywords name="Keywords3">admin all archive auto both bottom bzip2 checkbox colored components cur current custom directory end false file_attribute_archive file_attribute_hidden file_attribute_normal file_attribute_offline file_attribute_readonly file_attribute_system file_attribute_temporary force hidden hide highest hkcc hkcr hkcu hkdd hkey_classes_root hkey_current_config hkey_current_user hkey_dyn_data hkey_local_machine hkey_performance_data hkey_users hklm hkpd hku idabort idcancel idignore idno idok idretry idyes ifdiff ifnewer instfiles lastused leave left license listonly lzma mb_abortretryignore mb_defbutton1 mb_defbutton2 mb_defbutton3 mb_defbutton4 mb_iconexclamation mb_iconinformation mb_iconquestion mb_iconstop mb_ok mb_okcancel mb_retrycancel mb_right mb_setforeground mb_topmost mb_usericon mb_yesno mb_yesnocancel nevershow none normal off offline on pop push radiobuttons readonly right set shctx show silent silentlog smooth sw_hide sw_showmaximized sw_showminimized sw_shownormal system temporary textonly top true try uninstconfirm user zlib</Keywords>
      </KeywordLists>
     <Styles>
       <WordsStyle name="LINE COMMENTS" fgColor="008000"/>
@@ -24,7 +22,6 @@
       <WordsStyle name="KEYWORDS1" fgColor="0000ff"/>
       <WordsStyle name="KEYWORDS2" fgColor="ff8000"/>
       <WordsStyle name="KEYWORDS3" fgColor="ff0000" bgColor="ffff80"/>
-      <WordsStyle name="KEYWORDS4" fgColor="ff0000" bgColor="ffff80"/>
     </Styles>
   </UserLang>
 </NotepadPlus>
