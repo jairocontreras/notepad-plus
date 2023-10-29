@@ -12,7 +12,7 @@
       <!--value-->
       <Keywords name="Keywords3">after auto before bool both bottom default disable false hidden inherit label maximized middle minimized none normal null show static top true visible</Keywords>
       <!--main-->
-      <Keywords name="Keywords4">item menu modify remove separator</Keywords>
+      <Keywords name="Keywords4">item menu modify remove sep separator</Keywords>
       <!--function(expr)-->
       <Keywords name="Keywords5">char equal greater if indexof less not null quote shl shr tohex var</Keywords>
       <!--function-->
