@@ -1,9 +1,9 @@
-section (main):
+SECTION (MAIN)
 section
 settings
 theme
 
-property (section):
+PROPERTY (SECTION)
 align
 auto
 bottom
@@ -54,7 +54,7 @@ where
 width
 window
 
-property (main):
+PROPERTY (MAIN)
 admin
 arg
 args
@@ -91,7 +91,7 @@ wait
 where
 window
 
-keyword:
+KEYWORD
 auto
 bool
 default
@@ -100,12 +100,12 @@ none
 null
 true
 
-namespace (dual):
+NAMESPACE (DUAL)
 msg.beep
 path.file.box
 str.guid
 
-namespace.namespace:
+NAMESPACE.NAMESPACE
 io.attribute
 io.datetime
 io.dir
@@ -116,7 +116,7 @@ path.directory
 path.file
 path.location
 
-namespace[]:
+NAMESPACE[]
 app.about
 app.cfg
 app.directory
@@ -709,7 +709,7 @@ window.parent.handle
 window.parent.name
 window.title
 
-namespace():
+NAMESPACE()
 appx.family
 appx.id
 appx.name
@@ -830,7 +830,7 @@ window.command
 window.post
 window.send
 
-unused:
+UNUSED
 cmd.hidden
 cmd.maximized
 cmd.minimized
