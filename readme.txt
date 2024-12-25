@@ -2,7 +2,7 @@ AUTOHOTKEY
 
 --added--
 function[]: as case class default extends files global in is local parse read reg static
-function(): isalnum isalpha isdigit isfloat isinteger islower isnumber isspace istime isupper isxdigit
+function(): isalnum isalpha isdigit isfloat isinteger islower isnumber isspace istime isupper isxdigit push
 variable: super this
 
 NSIS
